@@ -253,7 +253,7 @@ function FormularioCotizador() {
               'Calcular Cotización'
             )}
           </button>
-{/* Botón de reset,solo aparece si ya hay resultados */}
+{/* Botón de reset, solo aparece si ya hay resultados */}
           {opcionesCotizacion && (
             <button 
               type="button" 
